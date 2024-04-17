@@ -1,1 +1,1 @@
-# FirebaseApp
+This app is a simple notes app, much like the one outlined in the lecture. I've added a firebase authentication layer to it. You have to sign up then log in in order to get to the notes app. Firebase saves the sign up users in its database, and then saves the notes
